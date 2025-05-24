@@ -10,6 +10,10 @@ This analysis provided valuable insights into our product portfolio, highlightin
 enabling us to align our pricing strategies with business objectives. Additionally, it offered a clearer view of our stock inventory, supporting more effective inventory optimization. 
 The analysis further revealed correlations between various factors, helping us understand their impact on business decisions.
 
+Identified Electronics as a low-performing category through sales analysis and recommended targeted initiatives to boost its performance; recognized Clothing as the highest-demand category and proposed strategies to sustain and grow its market demand.
+
+Utilized SQL, and Tableau to analyze and visualize retail data across three product categories, improving pricing accuracy and inventory efficiency based on customer behavior insights.
+
 **PowerBI Report:**
 1. Discount by Category
 2. Rating by Category
